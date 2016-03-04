@@ -1,0 +1,18 @@
+{
+  "bitwise":true,
+  "curly": true,
+  "eqeqeq": true,
+  "eqnull": true,
+  "indent": true,
+  "latedef": true,
+  "newcap": true,
+  "noarg": true,
+  "undef": true,
+  "unused": true,
+  "loopfunc":true,
+  "sub":true,
+  "browser": true,
+  "node": true,
+  "es5": true,
+  "esnext": true
+}
